@@ -17,7 +17,6 @@ If you use these codes in your research, please cite:
 ### The framework of the proposed work 
 ![Framework of the roposed work](https://github.com/jzrita/DPD-Project/blob/master/framework.bmp) 
 
-
 ### Results
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
@@ -25,8 +24,11 @@ If you use these codes in your research, please cite:
 </div>
 </a>
 
+Detection comparison of the proposed DPD method and the state-of-the-art methods. For each row from left to right is: (a) depth map of the
+indoor scene, (b) corresponding ground truth, testing result of (c) CORG, (d) RPCA, (e) CC-RANSAC and (f) the proposed method (in the red bounding box). 
+
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
-	<img src="results_table.bmp" width="80%" height="10%"/>
+	<img src="results_table.bmp" width="60%" height="10%"/>
 </div>
 </a>
